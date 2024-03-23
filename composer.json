@@ -1,5 +1,5 @@
 {
-    "name": "tappayments/gosell",
+    "name": "mahmoudaboelela/gosell-guzzle-fix",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
     	 "php": ">=5.6.0",
-        "guzzlehttp/guzzle": "^6.5"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",
